@@ -1,1 +1,5 @@
-# Zillow-API-data-Pipeline-Using-Aws
+# Zillow-API-data-Pipeline-Using-Aws![Zillow-DE-Project](https://github.com/user-attachments/assets/f087f642-dec2-4205-a3a2-0018a058d9d4)
+![Data-to-warehouse](https://github.com/user-attachments/assets/d3ba7d9a-93f9-48a4-ab03-ca35f0563874)
+![DAG-view](https://github.com/user-attachments/assets/863af9da-92d9-403d-85f7-80df59758350)
+![Data-to-warehouse (1)](https://github.com/user-attachments/assets/f0802db0-b685-471a-a51e-08697de7bcf4)
+![Quicksights-analytics](https://github.com/user-attachments/assets/a788808a-0f18-4f17-b6e6-e60985697a32)
